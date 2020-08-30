@@ -1,0 +1,7 @@
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/services/ConfigurationService.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/services/ConfigurationServiceImpl.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/utils/exceptions/ItemAlreadyExistsException.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/Application.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/model/Configuration.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/controllers/ConfigurationController.java
+/Users/antonioiodice/Developer/spring-config-service/src/main/java/com/iod/app/utils/exceptions/ItemNotFoundException.java
