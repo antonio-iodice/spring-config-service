@@ -36,7 +36,7 @@ $ curl localhost:8080/
 
 ##### Stop Docker Container:
 ```
-docker-compose down
+$ docker-compose down
 ```
 
 #### Example Usage
