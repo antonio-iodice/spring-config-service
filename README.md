@@ -38,7 +38,7 @@ $ curl localhost:8080/
 ```
 docker-compose down
 ```
-U
+
 #### Example Usage
 
 * POST localhost:8080/foo with body {"name": "Foo", "value": "val0"} to add a new configuration "foo"
