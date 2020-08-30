@@ -38,14 +38,14 @@ $ curl localhost:8080/
 ```
 docker-compose down
 ```
-
+U
 #### Example Usage
 
 * POST localhost:8080/foo with body {"name": "Foo", "value": "val0"} to add a new configuration "foo"
 * GET localhost:8080/foo to retrieve configuration "foo"
 * PUT localhost:8080/foo with body {"name": "Foo", "value": "val1"} to update configuration "foo"
 * GET localhost:8080/ to retrieve all the available configurations
-* DELETE localhost:8080/foo to delete the configuration foo
+* DELETE localhost:8080/foo to delete the configuration "foo"
 
 #### Additional info on the project
 The project has been entirely built using Java and Spring Boot. 
