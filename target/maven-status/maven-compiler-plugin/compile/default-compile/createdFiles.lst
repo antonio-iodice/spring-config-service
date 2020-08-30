@@ -1,7 +1,0 @@
-com/iod/app/utils/exceptions/ItemNotFoundException.class
-com/iod/app/model/Configuration.class
-com/iod/app/Application.class
-com/iod/app/services/ConfigurationService.class
-com/iod/app/utils/exceptions/ItemAlreadyExistsException.class
-com/iod/app/controllers/ConfigurationController.class
-com/iod/app/services/ConfigurationServiceImpl.class
