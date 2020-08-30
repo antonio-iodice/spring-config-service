@@ -51,6 +51,7 @@ docker-compose down
 The project has been entirely built using Java and Spring Boot. 
 * Controllers are in charge of handling the REST requests. 
 * Services handle the logic.
+
 All the tests are in the test package.
 Any new functionality added (see below section) should continue following this structure.
 For the sake of this sample project the whole data structure is saved in-memory. If you need to persist your data for more then a single session I suggest attaching a DB and changing the ConfigurationService class to persist the configuration data, instead of simply saving it in memory.
